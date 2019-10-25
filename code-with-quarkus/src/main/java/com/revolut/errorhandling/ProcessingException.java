@@ -2,7 +2,8 @@ package com.revolut.errorhandling;
 
 public class ProcessingException extends Exception{
 
-    private String message;
+    private static final long serialVersionUID = -5086618644518815430L;
+	private String message;
     private int httpStatus;
 
     public ProcessingException(String message,int httpStatus){

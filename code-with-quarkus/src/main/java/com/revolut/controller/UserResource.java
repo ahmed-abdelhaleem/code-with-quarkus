@@ -1,7 +1,6 @@
 package com.revolut.controller;
 
 import com.revolut.dto.CreateUserDTO;
-import com.revolut.dto.UserDTO;
 import com.revolut.errorhandling.ProcessingException;
 import com.revolut.service.UserServiceInterface;
 
@@ -10,7 +9,6 @@ import javax.transaction.Transactional;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import java.util.concurrent.CompletionStage;
 
 @Path("/api/v1/users")
 public class UserResource {

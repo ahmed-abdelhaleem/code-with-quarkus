@@ -9,7 +9,6 @@ import org.apache.http.HttpStatus;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
-import javax.inject.Singleton;
 import javax.transaction.Transactional;
 import javax.ws.rs.core.Response;
 import java.util.Date;

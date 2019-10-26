@@ -1,4 +1,4 @@
-package com.revolut.model;
+package com.quarkus.model;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 

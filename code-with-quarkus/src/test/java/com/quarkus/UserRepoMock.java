@@ -1,6 +1,6 @@
-package com.revolut;
+package com.quarkus;
 
-import com.revolut.repo.UserRepo;
+import com.quarkus.repo.UserRepo;
 
 import javax.annotation.Priority;
 import javax.enterprise.context.ApplicationScoped;

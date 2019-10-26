@@ -1,4 +1,4 @@
-package com.revolut.dto;
+package com.quarkus.dto;
 
 public class CreateUserDTO {
 

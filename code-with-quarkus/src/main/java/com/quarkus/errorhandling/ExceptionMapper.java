@@ -1,4 +1,4 @@
-package com.revolut.errorhandling;
+package com.quarkus.errorhandling;
 
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.HttpHeaders;

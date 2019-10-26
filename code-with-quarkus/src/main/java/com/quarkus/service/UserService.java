@@ -1,10 +1,10 @@
-package com.revolut.service;
+package com.quarkus.service;
 
-import com.revolut.dto.CreateUserDTO;
-import com.revolut.dto.UserDTO;
-import com.revolut.errorhandling.ProcessingException;
-import com.revolut.model.User;
-import com.revolut.repo.UserRepo;
+import com.quarkus.dto.CreateUserDTO;
+import com.quarkus.dto.UserDTO;
+import com.quarkus.errorhandling.ProcessingException;
+import com.quarkus.model.User;
+import com.quarkus.repo.UserRepo;
 import org.apache.http.HttpStatus;
 
 import javax.enterprise.context.ApplicationScoped;

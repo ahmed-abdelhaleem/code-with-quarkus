@@ -1,4 +1,4 @@
-package com.revolut;
+package com.quarkus;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

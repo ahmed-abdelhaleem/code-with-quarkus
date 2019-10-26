@@ -1,9 +1,9 @@
-package com.revolut;
+package com.quarkus;
 
-import com.revolut.dto.CreateUserDTO;
-import com.revolut.dto.UserDTO;
-import com.revolut.errorhandling.ProcessingException;
-import com.revolut.service.UserServiceInterface;
+import com.quarkus.dto.CreateUserDTO;
+import com.quarkus.dto.UserDTO;
+import com.quarkus.errorhandling.ProcessingException;
+import com.quarkus.service.UserServiceInterface;
 import io.quarkus.test.Mock;
 import org.apache.http.HttpStatus;
 

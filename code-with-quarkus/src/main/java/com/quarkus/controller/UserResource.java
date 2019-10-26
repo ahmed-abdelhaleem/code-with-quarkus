@@ -1,8 +1,8 @@
-package com.revolut.controller;
+package com.quarkus.controller;
 
-import com.revolut.dto.CreateUserDTO;
-import com.revolut.errorhandling.ProcessingException;
-import com.revolut.service.UserServiceInterface;
+import com.quarkus.dto.CreateUserDTO;
+import com.quarkus.errorhandling.ProcessingException;
+import com.quarkus.service.UserServiceInterface;
 
 import javax.inject.Inject;
 import javax.transaction.Transactional;

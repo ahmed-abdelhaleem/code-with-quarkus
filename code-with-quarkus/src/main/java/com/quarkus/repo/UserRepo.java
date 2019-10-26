@@ -1,6 +1,6 @@
-package com.revolut.repo;
+package com.quarkus.repo;
 
-import com.revolut.model.User;
+import com.quarkus.model.User;
 import io.quarkus.hibernate.orm.panache.PanacheRepositoryBase;
 
 import javax.enterprise.context.ApplicationScoped;

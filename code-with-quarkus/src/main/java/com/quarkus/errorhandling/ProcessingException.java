@@ -1,4 +1,4 @@
-package com.revolut.errorhandling;
+package com.quarkus.errorhandling;
 
 public class ProcessingException extends Exception{
 
